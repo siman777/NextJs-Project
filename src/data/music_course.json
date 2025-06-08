@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Acoustic Guitar Mastery",
+      "slug": "acoustic-guitar-mastery",
+      "description": "Master the acoustic guitar with fingerpicking techniques and chord progressions.",
+      "price": 89.99,
+      "instructor": "David Green",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Classical Piano Foundations",
+      "slug": "classical-piano-foundations",
+      "description": "Learn classical piano techniques, including scales and arpeggios.",
+      "price": 119.99,
+      "instructor": "Maria Lopez",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Performance Strategies",
+      "slug": "vocal-performance-strategies",
+      "description": "Develop confidence and stage presence with advanced vocal techniques.",
+      "price": 129.99,
+      "instructor": "Sophia Adams",
+      "isFeatured": true,
+      "image": "/courses/vocalist.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Percussion Rhythms",
+      "slug": "percussion-rhythms",
+      "description": "Explore world percussion and drumming styles to enhance your rhythm skills.",
+      "price": 139.99,
+      "instructor": "Carlos Rivera",
+      "isFeatured": false,
+      "image": "/courses/drumming.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Harmony & Chords",
+      "slug": "jazz-harmony-chords",
+      "description": "Understand jazz harmonies, chord structures, and improvisation techniques.",
+      "price": 149.99,
+      "instructor": "Nathan Scott",
+      "isFeatured": false,
+      "image": "/courses/jazz.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sound Engineering Basics",
+      "slug": "sound-engineering-basics",
+      "description": "Learn the fundamentals of sound mixing, EQ, and effects processing.",
+      "price": 159.99,
+      "instructor": "Julia Brown",
+      "isFeatured": true,
+      "image": "/courses/music-prod.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Lyric Writing Workshop",
+      "slug": "lyric-writing-workshop",
+      "description": "Craft compelling lyrics and explore storytelling through songwriting.",
+      "price": 169.99,
+      "instructor": "Daniel Carter",
+      "isFeatured": false,
+      "image": "/courses/song-writing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Sound Design",
+      "slug": "electronic-sound-design",
+      "description": "Create rich electronic soundscapes and experiment with synthesizers.",
+      "price": 179.99,
+      "instructor": "Olivia Martinez",
+      "isFeatured": true,
+      "image": "/courses/music-prod.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Baroque & Classical Composers",
+      "slug": "baroque-classical-composers",
+      "description": "Analyze the works of famous Baroque and Classical composers.",
+      "price": 189.99,
+      "instructor": "Vincent Hall",
+      "isFeatured": false,
+      "image": "/courses/classical-music.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Fingerstyle Blues Guitar",
+      "slug": "fingerstyle-blues-guitar",
+      "description": "Develop blues guitar techniques using fingerstyle picking.",
+      "price": 199.99,
+      "instructor": "Aaron Foster",
+      "isFeatured": true,
+      "image": "/courses/blues.jpg"
+    }
+  ]
+}
